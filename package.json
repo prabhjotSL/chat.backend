@@ -1,0 +1,8 @@
+{
+  "name": "chat.backend",
+  "description": "REST API for CHAT Android app",
+  "version": "0.1.1",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
