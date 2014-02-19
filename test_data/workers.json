@@ -1,0 +1,5 @@
+[
+{ "_id" : 1, "first_name" : "colin", "last_name" : "mccann", "password" : "chat", "role_name" : "councellor", "assigned_community" : "snathing" },
+{ "_id" : 2, "first_name" : "Armin", "last_name" : "Krauss", "password" : "chat", "role_name" : "volunteer", "assigned_community" : "snathing" },
+{ "_id" : 3, "first_name" : "Jim", "last_name" : "Slotta", "password" : "chat", "role_name" : "volunteer", "assigned_community" : "other" }
+] 
