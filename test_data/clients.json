@@ -2,5 +2,5 @@
 {"_id": 1, "first_name": "John", "last_name": "Doe", "hh_id": 1, "gender": "male", "date_of_birth": "1980-12-29T01:00:00.0Z"},
 {"_id": 2, "first_name": "Jane", "last_name": "Jacobs", "hh_id": 1, "gender": "female", "date_of_birth": "1981-12-29T00:00:00.0Z"},
 {"_id": 3, "first_name": "Davey", "last_name": "Jones", "hh_id": 1, "gender": "male", "date_of_birth": "2010-12-29T00:00:00.0Z"},
-{"_id": 4, "first_name": "Stewie", "last_name": "Jones", "hh_id": 1, "gender": "male", "date_of_birth": "2012-01-01T00:00:00.0Z"}
+{"_id": 4, "first_name": "Stewie", "last_name": "Jones", "hh_id": 1, "gender": "male", "date_of_birth": "2012-01-01T14:29:08.948Z"}
 ]
