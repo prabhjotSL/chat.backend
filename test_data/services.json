@@ -99,7 +99,7 @@
   { "_id" : 105, "name" : "HC1D - If previously tested, RESULTS?", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Positive = + or Negative = - or Unknown = U" },
   { "_id" : 106, "name" : "HC13 - Other illness or treatment", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Specify" },
   { "_id" : 107, "name" : "HD1 - Rate the overall health of the individual", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "G = good; A = Average; P = Poor" },
-  { "_id" : 108, "name" : "HE8 - HIV Counselling & Testing Offered and Declined", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Ask reason for delining" },
+  { "_id" : 108, "name" : "HE8 - HIV Counselling & Testing Offered and Declined", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Ask reason for declining" },
   { "_id" : 109, "name" : "HE12 - Test Results", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "+/- or Discordant" },
   { "_id" : 110, "name" : "HE15 - Referral For CD 4 Count", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Ask if they would have preferred to have their CD4 count tested at home" },
   { "_id" : 111, "name" : "HE27 - Other", "type" : "Other", "role" : "Lay Counsellor", "instructions" : "Specify" }
