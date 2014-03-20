@@ -1,6 +1,6 @@
 [
 { "_id" : 1, "name" : "HIV", "en_observe_content" : "Some HIV related observe content", "en_record_content" : "Some HIV related record content", "zu_observe_content" : "Zulu stuff", "zu_record_content" : "Zulu stuff", "color" : "#a01718", "modified_at": "2014-03-12T14:47:00.444Z" },
-{ "_id" : 2, "name" : "Child Illness", "en_observe_content" : "Some Severe Childhood Illnesses related observe content", "en_record_content" : "Some Severe Childhood Illnesses related record content", "zu_observe_content" : "Zulu stuff", "zu_record_content" : "Zulu stuff", "color" : "#ebbb28", "modified_at": "2014-03-13T18:47:47.444Z"},
+{ "_id" : 2, "name" : "Childhood Illness", "en_observe_content" : "Some Severe Childhood Illnesses related observe content", "en_record_content" : "Some Severe Childhood Illnesses related record content", "zu_observe_content" : "Zulu stuff", "zu_record_content" : "Zulu stuff", "color" : "#ebbb28", "modified_at": "2014-03-13T18:47:47.444Z"},
 { "_id" : 3, "name" : "Nutrition", "en_observe_content" : "Some Nutrition related observe content", "en_record_content" : "Some Nutrition related record content", "zu_observe_content" : "Zulu stuff", "zu_record_content" : "Zulu stuff", "color" : "#5b943d", "modified_at": "2014-03-11T09:00:47.444Z" },
 { "_id" : 4, "name" : "Psychosocial Support", "en_observe_content" : "Look for signs that the parent/carer spends time focusing on the child and its interests", "en_record_content" : "Does the child seem happy and active and willing to talk with home visitor?", "zu_observe_content" : "Zulu stuff", "zu_record_content" : "Zulu stuff", "color" : "#4ec5c7", "modified_at": "2014-03-13T20:47:47.444Z" }
-] 
+]
